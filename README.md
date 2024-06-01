@@ -1,7 +1,6 @@
 # 공포의 미래관
-<br>
 
-### 사일런트 힐에서 영감을 받았습니다
+#### 사일런트 힐에서 영감을 받았습니다
 
 <br>
 
@@ -33,7 +32,19 @@ Pose Estimation, Object Localization 등을 써볼려고 했으나,
 
 위와 같은 모델들을 다운받았습니다
 <br>
+
+<img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/6449c8bb-ad00-4b08-9358-78cccba23929">
+<br>
 Unity AR Foundation에 해당 모델들을 추가하고 약간의 세팅을 변경했습니다
+<br>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/4486bb7d-81e6-4f10-bf83-e217f002d574" ></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/194ee371-334d-400d-bdc8-67c5be81d542" ></td>
+  </tr>
+</table>
+
 <br>
 위 그림과 같은 영상을 얻었습니다
 
