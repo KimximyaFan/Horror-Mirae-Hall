@@ -23,9 +23,14 @@ Pose Estimation, Object Localization 등을 써볼려고 했으나,
 체크보드 같은 것을 프린트해서 바닥에 깔아서 AR을 구현할 바에는 차라리 Unity AR Foundation을 쓰는게 가성비가 좋다고 판단했습니다
 <br>
 
-<img src=https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/e2f5e73c-4c0c-4161-8662-e582204173b3>
-<img src=https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/e7e10853-17f5-4c59-909b-76e7d0f88bae>
-<img src=https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/9d926ade-2c3f-4ce2-88ee-032651fbc5a6>
+<table>
+  <tr>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/e2f5e73c-4c0c-4161-8662-e582204173b3" width="300"></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/e7e10853-17f5-4c59-909b-76e7d0f88bae" width="300"></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/9d926ade-2c3f-4ce2-88ee-032651fbc5a6" width="300"></td>
+  </tr>
+</table>
+
 위와 같은 모델들을 다운받았습니다
 <br>
 Unity AR Foundation에 해당 모델들을 추가하고 약간의 세팅을 변경했습니다
