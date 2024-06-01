@@ -71,6 +71,15 @@ Unity AR Foundation에 해당 모델들을 추가하고 약간의 세팅을 변�
 
 ### 2. 텍스쳐 입히기
 
+<table>
+  <tr>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/96fd1d87-6794-4027-adfa-eda6bc337d0d" height="200" width="200"></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/595c54ee-8f70-427b-a12d-9a343c792c54" height="200" width="200"></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/4359ff23-e158-409c-833f-6d8b817db876" height="200" width="200"></td>
+    <td><img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/3bf81816-d42e-46e5-8318-7ece3db14216" height="200" width="200"></td>
+  </tr>
+</table>
+
 각 프레임에 대해서 그레이스케일을 적용해주고
 
 adaptive binary threshold 를 적용합니다
