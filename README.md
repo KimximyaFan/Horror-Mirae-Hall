@@ -61,6 +61,10 @@ Unity AR Foundation에 해당 모델들을 추가하고 약간의 세팅을 변�
 쓰레쉬 홀드값을 낮게 주는게 연출이 좋습니다
 너무 낮게주면 오히려 역효과가 나타나고, 15~20 정도의 값이 좋았습니다
 
+<br>
+
+<img src="https://github.com/KimximyaFan/Horror-Mirae-Hall/assets/107273680/4435e051-fad6-4807-9829-1ec668a797d1" >
+
 위 그림과 같은 영상을 얻었습니다
 
 <br>
